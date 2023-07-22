@@ -127,6 +127,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
+=======
+*env/
+>>>>>>> 8c934ad (first commit)
 
 # Spyder project settings
 .spyderproject
