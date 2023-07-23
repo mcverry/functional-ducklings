@@ -1,4 +1,4 @@
-from ducklings import parameter_ducks
+from src.ducklings import parameter_ducks
 
 
 class TestParameterDucks:

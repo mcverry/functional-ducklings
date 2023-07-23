@@ -20,3 +20,11 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/mcverry/functional_ducklings"
 "Bug Tracker" = "https://github.com/mcverry/functional_ducklings/issues"
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q"
+pythonpath = "src"
+testpaths = [
+    "tests",
+]
